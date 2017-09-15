@@ -15,6 +15,8 @@ h1 | h2
 <li>ssssss</li>
 </ul>
 
+<a class='toto' href='www.google.com">Link to google</a>
+
 </html>
 ```
 

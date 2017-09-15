@@ -12,7 +12,9 @@ h1 | h2
 <html>
 
 <ul>
-<li>ssssss</li>
+<li>ssssss</li><li>
+kjkjkjk
+</li>
 </ul>
 
 <a class='toto' style="width: 100%" href='www.google.com">Link to google</a>
@@ -22,9 +24,7 @@ h1 | h2
 
 <html>
 <ul>
-<li>fffffff<li><li>
-kjkjkjk
-</li>
+<li>fffffff<li>
 </ul>
 </html>
 

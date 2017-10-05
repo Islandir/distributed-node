@@ -12,7 +12,7 @@ h1 | h2
 <html>
 
 <ul>
-<+li>ssssss</li><li><a
+<+li style='toto'>ssssss</li><li><a
 style="hahaha">ffff<
 /a>
 kjkjkjk
